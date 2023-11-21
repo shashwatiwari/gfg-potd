@@ -1,10 +1,10 @@
 /*
 
 Author : Shashvat Tiwari
-Date : 17/11/2023
-Problem : Binary Tree To CDLL
+Date : 20/11/2023
+Problem : K Sum Paths
 Difficulty : Medium
-Problem Link : https://www.geeksforgeeks.org/problems/binary-tree-to-cdll/1
+Problem Link : https://www.geeksforgeeks.org/problems/k-sum-paths/1
 Video Solution : NA
 
 */

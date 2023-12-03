@@ -22,6 +22,5 @@ public:
             prev = arr[i];
         }
         return true;
-        // code here
     }
 };

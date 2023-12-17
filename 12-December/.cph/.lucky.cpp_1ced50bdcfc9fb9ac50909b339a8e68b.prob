@@ -1,0 +1,1 @@
+{"name":"Local: lucky","url":"d:\\gfg-potd\\12-December\\lucky.cpp","tests":[{"id":1702062431045,"input":"6 2 11 1 13 0 8 4 16 9 19 3\n\n01010 10\n\n1010 01101\n\n1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\gfg-potd\\12-December\\lucky.cpp","group":"local","local":true}

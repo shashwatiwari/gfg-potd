@@ -49,17 +49,17 @@ public:
             if (n <= pow(2, r))
             {
                 int len = pow(2, r);
-                int f = 0;
+                int flip = 0;
                 while (n > 1)
                 {
                     len = len / 2;
                     if (n > len)
                     {
-                        f = abs(f - 1);
+                        flip ^= 1;
                         n = n - len;
                     }
                 }
-                if (f)
+                if (flip)
                 {
                     int c = s[i] - '0';
                     c ^= 1;
